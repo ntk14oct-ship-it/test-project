@@ -1,0 +1,8 @@
+{
+  "name": "PEA Area Analyzer",
+  "description": "แอปพลิเคชันสำหรับเจ้าหน้าที่สำรวจ กฟภ. เพื่อวิเคราะห์คำถามและระบุพื้นที่สังกัดการไฟฟ้าส่วนภูมิภาค (PEA) อย่างแม่นยำด้วย AI",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
